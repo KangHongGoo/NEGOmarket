@@ -1,4 +1,4 @@
-# Nego_Market ReadMe
+# NEGO Market
 
 # 🖥 프로젝트 소개
 
