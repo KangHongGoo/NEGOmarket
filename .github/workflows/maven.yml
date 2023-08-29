@@ -37,4 +37,4 @@ jobs:
         password: ${{ secrets.DOCKERHUB_TOKEN }}
 
     - name: dockerhub push
-      run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/config-service spring_Negomarket/config-service
+      run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/config-service
