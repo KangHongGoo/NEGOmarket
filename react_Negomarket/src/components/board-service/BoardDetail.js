@@ -18,7 +18,7 @@ function BoardDetail() {
   
   const formatTimestamp = (timestamp) => {
     const date = new Date(timestamp);
-    return date.toLocaleString();
+    return date.toLocaleString();            
   };
 
 
