@@ -12,4 +12,5 @@ public class ApigatewayServiceApplication {
 		SpringApplication.run(ApigatewayServiceApplication.class, args);
 	}
 
+	  
 }
