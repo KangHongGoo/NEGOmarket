@@ -108,24 +108,30 @@
 
 **메인 화면**
 
-![Untitled](Nego_Market%20ReadMe%20af61ffbc64864832bb44c4aee6e9ac9a/Untitled.png)
+![Untitled](https://github.com/KangHongGoo/NEGOmarket/assets/132973559/4cbf7372-db61-4929-b143-f239e68c33f5)
+
 
 **글 작성 화면**
 
-![Untitled](Nego_Market%20ReadMe%20af61ffbc64864832bb44c4aee6e9ac9a/Untitled%201.png)
+![Untitled 1](https://github.com/KangHongGoo/NEGOmarket/assets/132973559/a2ccdb62-eca3-47e0-b53f-d50af1eda715)
+
 
 **글 자세히 보기**
 
-![Untitled](Nego_Market%20ReadMe%20af61ffbc64864832bb44c4aee6e9ac9a/Untitled%202.png)
+![Untitled 2](https://github.com/KangHongGoo/NEGOmarket/assets/132973559/ac4664d4-e686-423d-bb47-d057d63aead1)
+
 
 **판매중인 물건 조회**
 
-![Untitled](Nego_Market%20ReadMe%20af61ffbc64864832bb44c4aee6e9ac9a/Untitled%203.png)
+![Untitled 3](https://github.com/KangHongGoo/NEGOmarket/assets/132973559/a062c6f9-cf9a-47aa-9548-a94754faccb1)
+
 
 **채팅화면**
 
-![Untitled](Nego_Market%20ReadMe%20af61ffbc64864832bb44c4aee6e9ac9a/Untitled%204.png)
+![Untitled 4](https://github.com/KangHongGoo/NEGOmarket/assets/132973559/05fa0b37-f852-4ef1-850b-b1cf5d364d7d)
+
 
 **나의 프로필 수정**
 
-![Untitled](Nego_Market%20ReadMe%20af61ffbc64864832bb44c4aee6e9ac9a/Untitled%205.png)
+![Untitled 5](https://github.com/KangHongGoo/NEGOmarket/assets/132973559/42f63c5c-d055-4ffd-8d8c-19732532e40b)
+
