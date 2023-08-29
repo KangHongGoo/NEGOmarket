@@ -12,5 +12,8 @@ public class ImgfileServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ImgfileServiceApplication.class, args);
 	}
-
+                 
+                		 
+                		 
+                		 
 }
