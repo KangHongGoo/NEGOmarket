@@ -25,13 +25,13 @@ jobs:
         node-version: '18.16.0'
 
     - name: Install Dependences
-      run: npm install
+      run: cd react_Negomarket/ && npm install
       
     - name: Build react app
-      run: npm run build
+      run: cd react_Negomarket/ && npm run build
 
     - name: docker image build
-      run: docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/negomarket react_Negomarket
+      run: docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/negomarket react_Negomarket/
 
     - name: docker login
       uses: docker/login-action@v2
