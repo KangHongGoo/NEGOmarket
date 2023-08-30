@@ -1,3 +1,5 @@
+[![Java CI with React](https://github.com/KangHongGoo/NEGOmarket/actions/workflows/react.yml/badge.svg)](https://github.com/KangHongGoo/NEGOmarket/actions/workflows/react.yml)
+
 # NEGO Market
 
 # 🖥 프로젝트 소개
