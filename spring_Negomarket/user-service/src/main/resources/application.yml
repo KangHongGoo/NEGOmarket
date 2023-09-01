@@ -12,7 +12,7 @@ spring:
 
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://mysql:3306/mydb?serverTimezone=Asia/Seoul
+    url: jdbc:mysql://mysql:3306/mydb?serverTimezone=Asia/Seoul&useUnicode=true&characterEncoding=utf-8
     username: tj705
     password: tj705
   jpa:
@@ -29,7 +29,7 @@ eureka:
     register-with-eureka: true # 유레카 서버에 등록
     fetch-registry: true # 주기적으로 다른 인스턴스의 데이터를 받아와서 갱신
     service-url:
-      defaultZone: http://127.0.0.1:8761/eureka # 유레카 서버의 주소 정보
+      defaultZone: http://discovery-service:8761/eureka # 유레카 서버의 주소 정보
       
 
 
