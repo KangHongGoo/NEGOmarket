@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { useParams } from "react-router-dom";
 import { fetchFn } from "../../NetworkUtils";
+import { API_URL } from "../../Constants";
 
 function MemberDelete() {
   const username = useParams().username;
@@ -14,7 +15,7 @@ function MemberDelete() {
       password,
     };
 
-    fetchFn("DELETE", "http://localhost:9005/api/member", dto)
+    fetchFn("DELETE", `http://${API_URL}:9005/api/member`, dto)
     .then(data => {
       
       if(data===undefined){
